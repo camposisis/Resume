@@ -9799,11 +9799,11 @@ button.bg-dark:focus {
 }
 
 .text-primary {
-  color: #bd5d38 !important;
+  color: #32a6a8 !important;
 }
 
 a.text-primary:hover, a.text-primary:focus {
-  color: #824027 !important;
+  color: #32a6a8 !important;
 }
 
 .text-secondary {
